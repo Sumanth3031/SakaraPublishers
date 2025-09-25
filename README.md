@@ -27,3 +27,4 @@ Users can browse books, view book details, add books to their cart or wishlist, 
 
 ## Author
 Sumanth V
+Email: vaddesumanth31@gmail.com
